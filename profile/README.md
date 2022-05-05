@@ -14,4 +14,4 @@ More on [NutsCity Webside](https://nutscity.tk)
 
 > 只要是投稿, 而且被采纳就会进入感谢榜
 
-请往这个邮箱发送邮件来进行投稿: nkwjg@chenmy1903.tk
+请往这个邮箱发送邮件来进行投稿: tougao@nutscity.tk
