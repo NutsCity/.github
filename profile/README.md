@@ -2,6 +2,8 @@
 
 IP: play.nutscity.tk
 
+ip (for China players): china.nutscity.tk
+
 端口(Port): default port/默认端口
 
 More on [NutsCity Webside](https://nutscity.tk)
