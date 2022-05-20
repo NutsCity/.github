@@ -10,7 +10,7 @@ More on [NutsCity Webside](https://nutscity.tk)
 
 ## 感谢
 
-1. 开朗的网友-建筑区建议
+1. @kailangdwangyou-建筑区建议
 
 ## 投稿
 
